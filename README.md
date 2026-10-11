@@ -13,8 +13,8 @@ This repository documents the end-to-end design of an inverting boost (buck-boos
 
 *   **`/KiCad Design`**: Contains the complete physical board design.
     *   `schematic.kicad_sch`: The physical circuit schematic.
-    *   `PCB.kicad_pcb`: The finalized PCB layout[cite: 8].
-    *   **/3D Viewer**: Contains visual renders of the populated board[cite: 8].
+    *   `PCB.kicad_pcb`: The finalized PCB layout.
+    *   **/3D Viewer**: Contains visual renders of the populated board.
 *   **`/LTspice Simulation`**: Contains the theoretical validation files.
-    *   `Schematic.asc`: The LTspice circuit model[cite: 9].
-    *   `TransientAnalysis.plt`: Plot settings and results for the converter's transient response and ripple verification[cite: 9].
+    *   `Schematic.asc`: The LTspice circuit model.
+    *   `TransientAnalysis.plt`: Plot settings and results for the converter's transient response and ripple verification.
